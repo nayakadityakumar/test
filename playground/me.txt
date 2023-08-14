@@ -1,0 +1,5 @@
+{{#user}}
+Name:Aditya
+Skills:HTML,CSS,JS,Next.jS
+Email:nayakadityakumar2020@gmail.com
+{{/user}}
